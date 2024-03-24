@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I’m  Sewen 👋
 
-<!--
-**Sewar-x/Sewar-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Guangdong China
+- 🌱 I’m currently learning the Vue & React & Node
+- 📃 [Welcome Star to my blog](https://sewar-x.github.io/myblog/)
+- 📫 How to reach me: sewen01@foxmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+My Skills:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewar-x&layout=compact&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=Sewar-x&show_icons=true&theme=transparent)
