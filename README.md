@@ -6,7 +6,7 @@
 - 📝 [欢迎 star 我的博客](https://sewar-x.github.io/myblog/)
 - 📧 联系我: sewen01@foxmail.com
 - 🛠️ 我的技术栈: 
- </br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=square&logo=javascript&color=rgb(244,%20220,%2028)&labelColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypesScript-oringe?style=square&logo=typescript&color=rgb(68%2C%20147%2C%20248)&labelColor=white)
 ![Node.js](https://img.shields.io/badge/-Node-oringe?style=square&logo=node.js&color=rgb(65,%20126,%2056)&labelColor=white)
@@ -14,5 +14,5 @@
 ![React.js](https://img.shields.io/badge/-React-oringe?style=square&logo=react&color=rgb(20,%20158,%20202)&labelColor=white)
 ![Webapck.js](https://img.shields.io/badge/-Webpack-oringe?style=square&logo=webpack&color=rgb(141,%20214,%20249)&labelColor=white)
 ![Vite.js](https://img.shields.io/badge/-Vite-oringe?style=square&logo=vite&color=rgb(148,%20153,%20255)&labelColor=white)
-</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewar-x&layout=compact&theme=tokyonight)
