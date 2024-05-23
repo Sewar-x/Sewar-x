@@ -1,7 +1,7 @@
 ### Hi I’m  Sewen 👋
 - 💻 一名工作五年的不老不小的前端老鸟
-- 🔍 目前主要研究前端工程化相关内容：前端 CI/CD、组件库
-- 🎞️ 研究过 SSR、SSG、混合应用开发
+- 🔍 目前主要研究前端工程化相关内容：前端 CI/CD、组件库、微前端
+- 🎞️ 研究过 SSR、SSG、客户端混合应用开发、移动混合应用开发
 - 🏷️ 主要技术栈为 Vue2/Vue3, 略知 React 
 - 📝 [欢迎 star 我的博客](https://sewar-x.github.io/myblog/)
 - 📧 联系我: sewen01@foxmail.com
